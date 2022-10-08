@@ -1,0 +1,29 @@
+const data = [
+    {
+        "id": 1, 
+        "name": "Rimon",
+    },
+    {
+        "id": 2, 
+        "name": "MD",
+    },
+    {
+        "id": 3, 
+        "name": "Raisul",
+    },
+    {
+        "id": 4, 
+        "name": "Islam",
+    },
+    {
+        "id": 5, 
+        "name": "Rimon",
+    },
+    {
+        "id": 6, 
+        "name": "MD Raisul Islam Rimon",
+    }
+]
+
+export data;
+
